@@ -1,3 +1,20 @@
+// Nov 2013
+// http://jiyu-kenkyu.org
+// http://kow-luck.com
+//
+// This work is licensed under a Creative Commons 3.0 License.
+// (Attribution - NonCommerical - ShareAlike)
+// http://creativecommons.org/licenses/by-nc-sa/3.0/
+// 
+// This basically means, you are free to use it as long as you:
+// 1. give http://kow-luck.com a credit
+// 2. don't use it for commercial gain
+// 3. share anything you create with it in the same way I have
+//
+// If you want to use this work as more free, or encourage me,
+// please contact me via http://kow-luck.com/contact
+
+//========================================
 import processing.opengl.*;
 
 int WIDTH = 1280;
